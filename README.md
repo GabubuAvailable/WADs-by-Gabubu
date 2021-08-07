@@ -6,7 +6,7 @@ In this repository, I will upload forwarders for The Homebrew Channel apps made 
 # !READ THIS CAREFULLY!
 If you want to install a forwarder for your Wii, make sure that you have a brick protection first (BootMii as boot2 and Priiloader).
 
-Those forwarder WAD's will be tested on Dolphin (emuNAND) and on a real Wii before uploading them. Just to ensure that the console will not brick.
+Those forwarder WAD's will be tested on Dolphin (emuNAND) and on an real Wii before uploading them. Just to ensure that the console will not brick.
 
 And if you paid for those WADs, you just got scammed. Those forwarders are free and anybody can use it.
 
