@@ -13,7 +13,7 @@ Hope these are helpful to whatever you need!
 ⚠️ And if you paid for those WADs, you just got scammed. Those forwarders are free and anybody can use it.
 
 # Forwarders:
-- Offline Network Enabler - Forwarder - [Download](https://bit.ly/3xAcjH0)
+- Offline Network Enabler - [Download](https://bit.ly/3xAcjH0)
 
 # FAQ:
 ### Do you have an YouTube channel?
