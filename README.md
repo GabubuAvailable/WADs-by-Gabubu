@@ -18,6 +18,9 @@ In this YouTube channel you can find previews for every WAD that I will upload h
 # It's working on vWii (Wii on Wii U)?
 I don't know. And I can't verify because I don't have an Wii U. Sorry :(
 
+# And those WADs are official?
+No. Those WADs are UNOFFICIAL.
+
 # WAD corrupted?
 You can just report a issue directly from github.
 
