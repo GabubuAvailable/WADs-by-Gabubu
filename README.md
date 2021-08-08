@@ -3,12 +3,14 @@ Hi. My name is Andrei, I'm 17 and play MKWii. :)
 
 In this repository, I will upload forwarders for The Homebrew Channel apps made by me. :)
 
+Hope these are helpful to whatever you need!
+
 # !READ THIS CAREFULLY!
-If you want to install a forwarder for your Wii, make sure that you have a brick protection first (BootMii as boot2 and Priiloader).
+⚠️ If you want to install a forwarder for your Wii, make sure that you have a brick protection first (BootMii as boot2 and Priiloader).
 
-Those forwarder WAD's will be tested on Dolphin (emuNAND) and on an real Wii before uploading them. Just to ensure that the console will not brick.
+⚠️ Those forwarder WAD's will be tested on Dolphin (emuNAND) and on an real Wii before uploading them. But there is always a small chance that the WADs may corrupt the system!
 
-And if you paid for those WADs, you just got scammed. Those forwarders are free and anybody can use it.
+⚠️ And if you paid for those WADs, you just got scammed. Those forwarders are free and anybody can use it.
 
 # YouTube
 Here: https://youtube.com/channel/UCmTUqZ62B-KrDhbzTuRdfAw
@@ -16,10 +18,10 @@ Here: https://youtube.com/channel/UCmTUqZ62B-KrDhbzTuRdfAw
 In this YouTube channel you can find previews for every WAD that I will upload here.
 
 # It's working on vWii (Wii on Wii U)?
-I don't know. And I can't verify because I don't have an Wii U. Sorry :(
+I don't know. And I can't test those WADs because I don't have an Wii U. Sorry :(
 
 # And those WADs are official?
-No. Those WADs are UNOFFICIAL.
+No. Those WADs are UNOFFICIAL. 
 
 # WAD corrupted?
 You can just report a issue directly from github.
