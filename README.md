@@ -14,7 +14,7 @@ Hope these are helpful to whatever you need!
 
 ## Forwarders made by me:
 - [x] Offline Network Enabler
-- [ ] Open Shop Channel - Wii Shop Channel theme (still trying to make it)
+- [x] Open Shop Channel - Wii Shop Channel theme
 
 ## FAQ:
 #### Do you have an YouTube channel?
