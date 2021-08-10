@@ -8,7 +8,7 @@ Hope these are helpful to whatever you need!
 ## !READ THIS CAREFULLY!
 >⚠️ If you want to install a forwarder for your Wii, make sure that you have a **brick protection** first (BootMii as boot2 and Priiloader).
 
->⚠️ Those forwarder WAD's will be tested on **Dolphin (emuNAND)** and on an **real Wii** before uploading them. But there is always a small chance that the WADs may corrupt the system!
+>⚠️ Those forwarder WAD's will be tested on **Dolphin (emuNAND)** and on an **real Wii** before uploading them. But there is always a small chance that the WADs may corrupt the system! So, is your responsibility when you want to install an WAD.
 
 >⚠️ And if you paid for those WADs, you just got scammed. Those forwarders are free and anybody can use it.
 
