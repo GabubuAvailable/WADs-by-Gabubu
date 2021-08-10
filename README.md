@@ -12,13 +12,13 @@ Hope these are helpful to whatever you need!
 
 >⚠️ And if you paid for those WADs, you just got scammed. Those forwarders are free and anybody can use it.
 
-## Forwarders:
-- Offline Network Enabler - [Download](https://bit.ly/3xAcjH0)
+## Forwarders made by me:
+- [x] Offline Network Enabler
+- [ ] Open Shop Channel - Wii Shop Channel theme (still trying to make it)
 
 ## FAQ:
 #### Do you have an YouTube channel?
->Here: https://youtube.com/channel/UCmTUqZ62B-KrDhbzTuRdfAw
-
+>[Here.](https://youtube.com/channel/UCmTUqZ62B-KrDhbzTuRdfAw)
 >In this YouTube channel you can find previews for every WAD that I will upload here.
 
 #### It's working on vWii (Wii on Wii U)?
