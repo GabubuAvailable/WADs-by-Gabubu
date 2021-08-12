@@ -14,7 +14,8 @@ Hope these are helpful to whatever you need!
 
 ## Forwarders made by me:
 - [x] Offline Network Enabler
-- [x] Open Shop Channel - Wii Shop Channel theme
+- [x] Open Shop Channel
+- [x] Yet Another BlueDump Mod
 
 ## FAQ:
 #### Do you have an YouTube channel?
