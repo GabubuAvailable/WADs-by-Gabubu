@@ -16,6 +16,8 @@ Hope these are helpful to whatever you need!
 - [x] Offline Network Enabler
 - [x] Open Shop Channel
 - [x] Yet Another BlueDump Mod
+- [x] Eject DVD
+- [x] PowerCheck
 
 ## FAQ:
 #### Do you have an YouTube channel?
