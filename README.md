@@ -12,9 +12,13 @@ Hope these are helpful to whatever you need!
 
 >⚠️ And if you paid for those WADs, you just got scammed. Those forwarders are free and anybody can use it.
 
->⚠️ WADS FOR VWII (WII MODE ON WII U) ARE NOT TESTED!!! THATS BECAUSE I DON'T HAVE A WII U. IF YOU WILL TEST THOSE WADS, MAKE SURE TO DM ME ON DISCORD (Gabubu#8895) IF IT'S WORKING OR NOT!!!
+>⚠️ FOR UN-TESTED FORWARDERS FOR VWII, IF YOU WILL TEST THOSE WADS, MAKE SURE TO DM ME ON DISCORD (Gabubu#8895) IF IT'S WORKING OR NOT!!! (Aplies only for vWii)
 
->⚠️ For tested WADs, you can install it without any problems.
+>⚠️ Forwarders for vWii are not tested by me. That's because I don't have a Wii U.
+
+>⚠️ For tested WADs, you can install it without any problems. (Again, aplies only for vWii)
+
+>⚠️ It's also recommended to go [in this page.](https://github.com/GabubuAvailable/WADs-by-Gabubu/wiki/Forwarders-(WADs)) Here you can see if there problems on forwarder for vWii or Wii
 
 ## Forwarders made by me:
 - [x] Offline Network Enabler
@@ -29,7 +33,7 @@ Hope these are helpful to whatever you need!
 >In this YouTube channel you can find previews for every WAD that I will upload here.
 
 #### It's working on vWii (Wii on Wii U)?
->Yeah. But forwarders for vWii are not tested by me. That's because I don't have a Wii U.
+>Several. But yes. :)
 
 #### And those WADs are official?
 >No. Those WADs are **UNOFFICIAL**. 
