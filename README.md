@@ -14,6 +14,8 @@ Hope these are helpful to whatever you need!
 
 >⚠️ WADS FOR VWII (WII MODE ON WII U) ARE NOT TESTED!!! THATS BECAUSE I DON'T HAVE A WII U. IF YOU WILL TEST THOSE WADS, MAKE SURE TO DM ME ON DISCORD (Gabubu#8895) IF IT'S WORKING OR NOT!!!
 
+>⚠️ For tested WADs, you can install it without any problems.
+
 ## Forwarders made by me:
 - [x] Offline Network Enabler
 - [x] Open Shop Channel
@@ -27,7 +29,7 @@ Hope these are helpful to whatever you need!
 >In this YouTube channel you can find previews for every WAD that I will upload here.
 
 #### It's working on vWii (Wii on Wii U)?
->I don't know. And I can't test those WADs because I don't have an Wii U. Sorry :(
+>Yeah. But forwarders for vWii are not tested by me. That's because I don't have a Wii U.
 
 #### And those WADs are official?
 >No. Those WADs are **UNOFFICIAL**. 
