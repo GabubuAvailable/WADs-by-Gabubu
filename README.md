@@ -12,6 +12,8 @@ Hope these are helpful to whatever you need!
 
 >⚠️ And if you paid for those WADs, you just got scammed. Those forwarders are free and anybody can use it.
 
+>⚠️ WADS FOR VWII (WII MODE ON WII U) ARE NOT TESTED!!! THATS BECAUSE I DON'T HAVE A WII U. IF YOU WILL TEST THOSE WADS, MAKE SURE TO DM ME ON DISCORD (Gabubu#8895) IF IT'S WORKING OR NOT!!!
+
 ## Forwarders made by me:
 - [x] Offline Network Enabler
 - [x] Open Shop Channel
