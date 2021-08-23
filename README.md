@@ -26,6 +26,7 @@ Hope these are helpful to whatever you need!
 - [x] Yet Another BlueDump Mod
 - [x] Eject DVD
 - [x] PowerCheck
+- [x] YAWMM
 
 ## FAQ:
 #### Do you have an YouTube channel?
