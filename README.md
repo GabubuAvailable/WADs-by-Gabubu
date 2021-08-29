@@ -27,6 +27,7 @@ Hope these are helpful to whatever you need!
 - [x] Eject DVD
 - [x] PowerCheck
 - [x] YAWMM
+- [x] ftpii
 
 ## FAQ:
 #### Do you have an YouTube channel?
