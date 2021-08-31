@@ -28,6 +28,7 @@ Hope these are helpful to whatever you need!
 - [x] PowerCheck
 - [x] YAWMM
 - [x] ftpii
+- [x] BounceWii
 
 ## FAQ:
 #### Do you have an YouTube channel?
