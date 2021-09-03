@@ -26,9 +26,10 @@ Hope these are helpful to whatever you need!
 - [x] Yet Another BlueDump Mod
 - [x] Eject DVD
 - [x] PowerCheck
-- [x] YAWMM
-- [x] ftpii
-- [x] BounceWii
+- [x] YAWMM (Suggested by Draconic NEO)
+- [x] ftpii (Suggested by jornmann)
+- [x] BounceWii (Suggested by jornmann)
+- [x] Not64 (Suggested by Damaj301damaj)
 
 ## FAQ:
 #### Do you have an YouTube channel?
