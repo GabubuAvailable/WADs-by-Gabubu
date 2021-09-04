@@ -30,6 +30,7 @@ Hope these are helpful to whatever you need!
 - [x] ftpii (Suggested by jornmann)
 - [x] BounceWii (Suggested by jornmann)
 - [x] Not64 (Suggested by Damaj301damaj)
+- [x] Wii Mod Lite (Suggested by jornmann)
 
 ## FAQ:
 #### Do you have an YouTube channel?
