@@ -31,6 +31,7 @@ Hope these are helpful to whatever you need!
 - [x] BounceWii (Suggested by jornmann)
 - [x] Not64 (Suggested by Damaj301damaj)
 - [x] Wii Mod Lite (Suggested by jornmann)
+- [x] WiiLink24 SPD (Suggested by Draconic NEO)
 
 ## FAQ:
 #### Do you have an YouTube channel?
