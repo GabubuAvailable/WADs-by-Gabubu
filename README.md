@@ -42,7 +42,7 @@ Hope these are helpful to whatever you need!
 >Several. But yes. :)
 
 #### And those WADs are official?
->No. Those WADs are **UNOFFICIAL**. 
+>No. Those WADs are **UNOFFICIAL**. But it could be Official i guess :)
 
 #### WAD corrupted?
 >You can just report an issue directly from github.
