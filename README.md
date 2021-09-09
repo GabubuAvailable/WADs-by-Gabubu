@@ -32,6 +32,7 @@ Hope these are helpful to whatever you need!
 - [x] Not64 (Suggested by Damaj301damaj)
 - [x] Wii Mod Lite (Suggested by jornmann)
 - [x] WiiLink24 SPD (Suggested by Draconic NEO)
+- [x] SuperTux Wii Edition (Suggested by jornmann)
 
 ## FAQ:
 #### Do you have an YouTube channel?
