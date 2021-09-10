@@ -3,6 +3,8 @@ Hi. My name is Andrei, I'm 17 and play MKWii. :)
 
 In this repository, I will upload forwarders for The Homebrew Channel apps made by me. :)
 
+Maybe I will start making forwarders rarely... Watch [this video](https://youtu.be/tNe6uAM5cQE) to see why.
+
 Hope these are helpful to whatever you need!
 
 ## !READ THIS CAREFULLY!
@@ -33,6 +35,7 @@ Hope these are helpful to whatever you need!
 - [x] Wii Mod Lite (Suggested by jornmann)
 - [x] WiiLink24 SPD (Suggested by Draconic NEO)
 - [x] SuperTux Wii Edition (Suggested by jornmann)
+- [x] Nintendont (Suggested by Finder352 ♡)
 
 ## FAQ:
 #### Do you have an YouTube channel?
