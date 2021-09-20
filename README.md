@@ -36,6 +36,7 @@ Hope these are helpful to whatever you need!
 - [x] WiiLink24 SPD (Suggested by Draconic NEO)
 - [x] SuperTux Wii Edition (Suggested by jornmann)
 - [x] Nintendont (Suggested by Finder352 ♡)
+- [x] The RickRoll Channel
 
 ## FAQ:
 #### Do you have an YouTube channel?
