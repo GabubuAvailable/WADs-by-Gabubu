@@ -37,7 +37,7 @@ Hope these are helpful to whatever you need!
 - [x] SuperTux Wii Edition (Suggested by jornmann)
 - [x] Nintendont (Suggested by Finder352 ♡)
 - [x] The RickRoll Channel
-- [x] 3D Pinball Space Cadet for Wii
+- [x] 3D Pinball Space Cadet for Wii (Suggested by Greego)
 
 ## FAQ:
 #### Do you have an YouTube channel?
