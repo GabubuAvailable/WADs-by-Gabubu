@@ -38,6 +38,7 @@ Hope these are helpful to whatever you need!
 - [x] Nintendont (Suggested by Finder352 ♡)
 - [x] The RickRoll Channel
 - [x] 3D Pinball Space Cadet for Wii (Suggested by Greego)
+- [x] BootMii Launcher
 
 ## FAQ:
 #### Do you have an YouTube channel?
