@@ -42,6 +42,7 @@ Hope these are helpful to whatever you need!
 - [X] WiiSX (Suggested by Stephanie G.)
 - [x] Priiloader (Suggested by Damaj301damaj)
 - [x] 240p Test Suite
+- [x] MPlayer CE (Suggested by jornmann)
 
 ## FAQ:
 #### Do you have an YouTube channel?
