@@ -43,6 +43,7 @@ Hope these are helpful to whatever you need!
 - [x] Priiloader (Suggested by Damaj301damaj)
 - [x] 240p Test Suite
 - [x] MPlayer CE (Suggested by jornmann)
+- [x] WiiFlow (Suggested by GameofSwitch21, jornmann, Draconic NEO and domTR)
 
 ## FAQ:
 #### Do you have an YouTube channel?
