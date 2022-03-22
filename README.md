@@ -1,6 +1,4 @@
 # _WADs made by Gabubu_
-Hi. My name is Andrei, I'm 18 and play MKWii. :)
-
 In this repository, I will upload forwarders for The Homebrew Channel apps made by me. :)
 
 Maybe I will start making forwarders rarely... Watch [this video](https://youtu.be/tNe6uAM5cQE) to see why.
