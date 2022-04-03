@@ -42,6 +42,7 @@ Hope these are helpful to whatever you need!
 - [x] 240p Test Suite
 - [x] MPlayer CE (Suggested by jornmann)
 - [x] WiiFlow (Suggested by GameofSwitch21, jornmann, Draconic NEO and domTR)
+- [x] Wii Donut
 
 ## FAQ:
 #### Do you have an YouTube channel?
