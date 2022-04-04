@@ -20,7 +20,7 @@ Hope these are helpful to whatever you need!
 
 >⚠️ It's also recommended to go [in this page.](https://github.com/GabubuAvailable/WADs-by-Gabubu/wiki/Forwarders-(WADs)) Here you can see if there problems on forwarder for vWii or Wii
 
-## Forwarders made by me:
+## Forwarders made:
 - [x] Offline Network Enabler
 - [x] Open Shop Channel
 - [x] Yet Another BlueDump Mod
