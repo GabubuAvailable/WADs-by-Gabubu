@@ -64,5 +64,5 @@ Hope these are helpful to whatever you need!
 >And please, don't spam! Just send a message or two and wait for response. ;)
 
 ###### Twitter: @GabubuIsTaken
-
+###### Odysee: [@Gabubu](https://odysee.com/@Gabubu:4?r=2pYLpecBMYvSua6eJJxAkjfjfzjVSCKk)
 ###### Discord: Gabubu#8895
