@@ -43,6 +43,7 @@ Hope these are helpful to whatever you need!
 - [x] MPlayer CE (Suggested by jornmann)
 - [x] WiiFlow (Suggested by GameofSwitch21, jornmann, Draconic NEO and domTR)
 - [x] Wii Donut
+- [x] MyMenuifyMod (Suggested by jornmann)
 
 ## FAQ:
 #### Do you have an YouTube channel?
