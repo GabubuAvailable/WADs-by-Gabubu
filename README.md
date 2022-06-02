@@ -63,6 +63,6 @@ Hope these are helpful to whatever you need!
 >You can send a message on Twitter or Discord.
 >And please, don't spam! Just send a message or two and wait for response. ;)
 
-###### Twitter: @GabubuIsTaken
-###### Odysee: [@Gabubu](https://odysee.com/@Gabubu:4?r=2pYLpecBMYvSua6eJJxAkjfjfzjVSCKk)
-###### Discord: Gabubu#8895
+#### You can find me on:
+>[Discord Server](https://discord.com/invite/EAJwxRaMGB), [YouTube](https://www.youtube.com/GabubuWADs), [Reddit](https://www.reddit.com/user/HCA_YT) and [Twitter](https://twitter.com/GabubuIsTaken).
+Now available on IRC too. `#gabubuwads` channel on [libera.chat](https://libera.chat). And on [Odysee](https://odysee.com/@Gabubu:4?r=2pYLpecBMYvSua6eJJxAkjfjfzjVSCKk)
