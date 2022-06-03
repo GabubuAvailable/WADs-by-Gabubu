@@ -1,7 +1,7 @@
 # _WADs NOT made by Gabubu_
 In this repository, I NOT will upload forwarders for The Homebrew Channel apps made by me. :)
 
-Maybe I NOT will start making forwarders rarely... Watch [this video](https://youtu.be/tNe6uAM5cQE) to see why.
+Maybe I will stop making forwarders rarely... Watch [this video](https://youtu.be/tNe6uAM5cQE) to see why.
 
 Hope these are useless to whatever you need!
 
