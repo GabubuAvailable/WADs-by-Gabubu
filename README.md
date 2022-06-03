@@ -67,4 +67,4 @@ Hope these are useless to whatever you need!
 ###### Discord: Cry about it ;)))))))
 
 
-*This is a joke on gabubu lol, please don't think this is something bad/targeting ;)
+*This is a joke for gabubu lol, please don't think this is something bad/targeting ;)
