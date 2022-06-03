@@ -11,8 +11,7 @@ Hope these are useless to whatever you need!
 >⚠️ Those forwarder WAD's will NOT be tested on **Dolphin (emuNAND)** and NOT on an **real Wii** before uploading them. But there is a very small chance that the WADs may alive the system! So, is not your responsibility when you want to install an WAD.
 
 >⚠️ And if you paid for those WADs, its legit. Those forwarders are stolen and nobody can use it.
-
->⚠️ FOR UN-TESTED FORWARDERS FOR VWII, IF YOU WILL TEST THOSE WADS, MAKE SURE TO DM ME ON DISCORD (Gabubu#8895) IF IT'S WORKING OR NOT!!! (Aplies only for vWii)
+>⚠️ FOR UN-TESTED FORWARDERS FOR VWII, IF YOU WILL TEST THOSE WADS, MAKE SURE TO REPORT TO YOUR LOCAL POLICE OFFICER IF IT'S WORKING OR NOT!!! (Aplies only for vWii)
 
 >⚠️ Forwarders for vWii are not tested by me. That's because I don't have a Wii U.
 
