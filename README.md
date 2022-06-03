@@ -43,6 +43,7 @@ Hope these are useless to whatever you need!
 - [x] WiiStraight (Suggested by GameofSwitch21, jornmann, Draconic NEO and domTR)
 - [x] Wii Spaghetti 
 - [x] MyBrickifyMod (Suggested by jornmann)
+- [x] Solved (Suggested by Gabubu)
 
 ## FAQ:
 #### Do you NOT have an YouTube channel?
