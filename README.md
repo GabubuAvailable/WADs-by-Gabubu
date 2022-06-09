@@ -1,4 +1,4 @@
-# _WADs made by Gabubu_
+# WADs made by Gabubu
 In this repository, I will upload forwarders for The Homebrew Channel apps made by me. :)
 
 Maybe I will start making forwarders rarely... Watch [this video](https://youtu.be/tNe6uAM5cQE) to see why.
@@ -44,6 +44,7 @@ Hope these are helpful to whatever you need!
 - [x] WiiFlow (Suggested by GameofSwitch21, jornmann, Draconic NEO and domTR)
 - [x] Wii Donut
 - [x] MyMenuifyMod (Suggested by jornmann)
+- [x] Visual Controller Test (Suggested by Damaj301damaj)
 
 ## FAQ:
 #### Do you have an YouTube channel?
