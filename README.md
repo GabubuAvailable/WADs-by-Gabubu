@@ -44,6 +44,7 @@ Hope these are useless to whatever you need!
 - [x] Wii Spaghetti 
 - [x] MyBrickifyMod (Suggested by jornmann)
 - [x] Solved (Suggested by Gabubu)
+- [x] Virtual Controller Release (Suggested by Damaj301damaj)
 
 ## FAQ:
 #### Do you NOT have an YouTube channel?
