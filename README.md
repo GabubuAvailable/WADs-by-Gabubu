@@ -41,6 +41,7 @@ In this repository, I will upload forwarders for The Homebrew Channel apps made 
 - [x] Wii Donut
 - [x] MyMenuifyMod (Suggested by jornmann)
 - [x] Visual Controller Test (Suggested by Damaj301damaj)
+- [x] Terri-Fried (Suggested by Damaj301damaj)
 
 ## FAQ:
 #### Do you have an YouTube channel?
