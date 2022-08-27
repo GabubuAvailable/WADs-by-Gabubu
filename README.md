@@ -1,6 +1,13 @@
 # WADs made by Gabubu
 In this repository, I will upload forwarders for The Homebrew Channel apps made by me. :)
 
+# BUT FIRST... lemme tell you something...
+If you came here for downloading some WADs you can...:
+
+1: check the source code, inside the WADs folder;
+
+2: visit the [website](https://wads.gabubu.gq).
+
 ## !READ THIS CAREFULLY!
 >⚠️ If you want to install a forwarder for your Wii, make sure that you have a **brick protection** first (BootMii as boot2 and Priiloader). (APLIES ONLY FOR WII)
 
@@ -42,6 +49,7 @@ In this repository, I will upload forwarders for The Homebrew Channel apps made 
 - [x] MyMenuifyMod (Suggested by jornmann)
 - [x] Visual Controller Test (Suggested by Damaj301damaj)
 - [x] Terri-Fried (Suggested by Damaj301damaj)
+- [x] Project WAVE (Suggested by Binski and Kirbeast)
 
 ## FAQ:
 #### Do you have an YouTube channel?
