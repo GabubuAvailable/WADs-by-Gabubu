@@ -50,6 +50,7 @@ If you came here for downloading some WADs you can...:
 - [x] Visual Controller Test (Suggested by Damaj301damaj)
 - [x] Terri-Fried (Suggested by Damaj301damaj)
 - [x] Project WAVE (Suggested by Binski and Kirbeast)
+- [x] USB Loader GX (Suggested by xjpgames, Damaj301damaj and the community)
 
 ## FAQ:
 #### Do you have an YouTube channel?
